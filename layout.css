@@ -1,0 +1,18 @@
+fieldset {
+    text-align: center;
+    margin: auto;
+    position: relative;
+    width: 50%;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
+
+.smallFont {
+    font-size: 10px;
+}
+
+#status {
+    width: 63px;
+}
+#date {
+    width: 63px;
+}
